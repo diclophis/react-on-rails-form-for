@@ -1,5 +1,5 @@
 require_relative 'test_helper'
-require_relative '../lib/react-rails/form-for'
+require_relative '../lib/react-on-rails/form-for'
 
 class FormForTest < ActiveSupport::TestCase
   include Rails::Dom::Testing::Assertions::SelectorAssertions

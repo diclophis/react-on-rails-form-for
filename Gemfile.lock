@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    react-rails-form-for (0.0.1)
+    react-on-rails-form-for (0.0.1)
       rails-dom-testing
       railties
 
@@ -105,4 +105,4 @@ PLATFORMS
 
 DEPENDENCIES
   rails
-  react-rails-form-for!
+  react-on-rails-form-for!

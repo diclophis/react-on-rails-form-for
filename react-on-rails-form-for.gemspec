@@ -1,12 +1,12 @@
-require File.expand_path('../lib/react-rails/form-for/version', __FILE__)
+require File.expand_path('../lib/react-on-rails/form-for/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "react-rails-form-for"
-  s.version     = ReactRails::FormFor::VERSION
+  s.name        = "react-on-rails-form-for"
+  s.version     = ReactOnRails::FormFor::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Jon Bardin"]
   s.email       = ["diclophis@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/react-rails-form-for"
+  s.homepage    = "http://rubygems.org/gems/react-on-rails-form-for"
   s.summary     = "form_for react-rails components"
   s.description = ""
   s.license     = "GPL"
